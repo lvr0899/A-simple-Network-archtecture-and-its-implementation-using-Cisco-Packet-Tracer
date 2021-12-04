@@ -1,1 +1,2 @@
 # Cisco-Packet-Tracer
+The file shows the complete Network Architecture of Small Medium Business Network, every pc, server, switch, routers pings to any network and it shows the syslog when there is a problem in any of the network and their is an additional network that can be added if the company needs to expands its networks and it has a VPN connection if their employes from different locations needs access to thier home network.
